@@ -42,6 +42,9 @@
 ## Printable Files
 
    [FreeCAD Design File](files/rocket.FCStd) 
+   [Nose Cone STL](files/rocket_nose_cone.stl) 
+   [Fins STL](files/rocket_fins.stl) 
+   [Chamber STL](files/rocket_chamber.stl) 
 
 
 ## Talking Points
