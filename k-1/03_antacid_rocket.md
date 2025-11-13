@@ -41,7 +41,7 @@
 
 ## Printable Files
 
-   [here](files/rocket_flyer.pdf). 
+   [FreeCAD Design File](files/rocket.FCStd) 
 
 
 ## Talking Points
