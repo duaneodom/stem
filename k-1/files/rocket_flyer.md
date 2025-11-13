@@ -12,10 +12,12 @@ You will need either an antacid tablet (eg. alka-seltzer) and water or baking so
 4. Insert the plunger into the rocket body maintaining it's current orientation as to not spill
     any of the powder into the liquid.
 
-    ![](rocket_04.jpg){width=30%}
-    ![](rocket_05.jpg){width=30%}
-    ![](rocket_06.jpg){width=30%}
+    ![](rocket_04.jpg){width=20%}
+    ![](rocket_05.jpg){width=20%}
+    ![](rocket_06.jpg){width=20%}
 
 5. When ready, tip the rocket over, stand it up on a hard, stable surface (table/floor) and back away.
 6. In 4 to 10 seconds the pressure should build and the rocket will pop off the plunger with enough
     force to likely hit the ceiling.
+
+![Project Website](rocket_qrcode.png){width=20%}

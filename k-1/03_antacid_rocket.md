@@ -34,9 +34,17 @@
     force to likely hit the ceiling.
 
 
-## Instruction Flyer for Pre-Built Syringe Rocket
+## Instruction Flyer
 
    A printable instruction flyer to send home with the kids is located [here](files/rocket_flyer.pdf). 
+
+
+## 3D Printable Files
+
+    [FreeCAD Design File](rocket.FCStd)
+    [rocket nose cone STL](rocket_nose_cone.stl)
+    [rocket fins STL](rocket_fins.stl)
+    [rocket chamber STL](rocket_chamber.stl)
 
 
 ## Talking Points
