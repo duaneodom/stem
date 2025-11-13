@@ -39,8 +39,8 @@
    A printable instruction flyer to send home with the kids is located [here](files/rocket_flyer.pdf). 
 
 
-## 3D Printable Files
-    
+## Printable Files
+
     These are all the files needed to create the pre-built syringe rockets on your own along with the
     FreeCAD design file to allow you to tweak the dimensions for other syringe sizes.
 
