@@ -34,9 +34,9 @@
     force to likely hit the ceiling.
 
 
-## Instruction Flyer
+## Instructional Flyer
 
-   A printable instruction flyer to send home with the kids is located [here](files/rocket_flyer.pdf). 
+   A printable instructional flyer to send home with the kids is located [here](files/rocket_flyer.pdf). 
 
 
 ## Printable Files
