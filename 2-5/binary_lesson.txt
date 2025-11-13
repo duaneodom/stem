@@ -1,0 +1,29 @@
+Who thinks computers are smart?
+
+Not smart, just fast.
+  Latest Iphone = 5 trillion ops
+
+   Football stadium=70k people
+   @ 1 second per person= 2yr 3mo
+
+What is 10110010100
+
+Why binary?
+   First weren't binary. Gears and decimal system until 1940s.
+   Electricity on or off
+
+Bi vs Deci
+1337
+1010
+
+ASCII text
+Duane
+100-117-97-110-101
+01100100
+01110101
+01100001
+01101110
+01100101
+
+Pictures as numbers
+   Draw a simple grid smiley face with color legend and binary in the cells.
