@@ -34,6 +34,11 @@
     force to likely hit the ceiling.
 
 
+## Instruction Flyer for Pre-Built Syringe Rocket
+
+   A printable instruction flyer to send home with the kids is located [here](files/rocket_flyer.pdf). 
+
+
 ## Talking Points
 
 - remember the carbon dioxide gas that was pressed into the drink at the factory
