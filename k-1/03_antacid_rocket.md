@@ -12,18 +12,18 @@
     you are using baking soda, pour 1-2 ml of vinegar into the rocket body.  Insert the plunger into the
     rocket body maintaining it's current orientation as to not spill any of the powder into the liquid.
 
-    <img src="files/rocket_04.jpg alt="loading" style="width:33%;height:auto;">
-    <img src="files/rocket_05.jpg alt="assembling" style="width:33%;height:auto;">
-    <img src="files/rocket_06.jpg alt="launching" style="width:33%;height:auto;">
+    <img src="files/rocket_04.jpg" alt="loading" style="width:33%;height:auto;">
+    <img src="files/rocket_05.jpg" alt="assembling" style="width:33%;height:auto;">
+    <img src="files/rocket_06.jpg" alt="launching" style="width:33%;height:auto;">
 
 - Syringe and Sticky Putty
     Use sticky putty or hot glue to plug the small end of the syringe. Break a small (pea sized) chunk
     off of the antacid tablet and use the sticky putty to stick it to the plunger. Pour 1-2 ml of water
     into the syringe body.  Insert the plunger into the syringe body maintaining it's current orientation.
 
-    <img src="files/rocket_01.jpg alt="loading" style="width:33%;height:auto;">
-    <img src="files/rocket_02.jpg alt="assembling" style="width:33%;height:auto;">
-    <img src="files/rocket_03.jpg alt="launching" style="width:33%;height:auto;">
+    <img src="files/rocket_01.jpg" alt="loading" style="width:33%;height:auto;">
+    <img src="files/rocket_02.jpg" alt="assembling" style="width:33%;height:auto;">
+    <img src="files/rocket_03.jpg" alt="launching" style="width:33%;height:auto;">
 
 When ready, tip the rocket over, stand it up on a hard, stable surface (table/floor) and back away.
 In 4 to 10 seconds the pressure should build and the rocket will pop off the plunger with enough
