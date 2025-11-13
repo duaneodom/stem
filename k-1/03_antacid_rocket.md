@@ -6,6 +6,7 @@
 ## Description
 
 - Pre-Built Syringe Rocket
+
     Either crush an antacid tablet into small pieces or use baking soda.  Load a small amount (less
     than 1/4 teaspoon) of the chosen powder into the chamber on the end of the plunger and hold the
     plunger chamber side down.  If you are using antacid, pour 1-2 ml of water into the rocket body. If
@@ -17,6 +18,7 @@
     <img src="files/rocket_06.jpg" alt="launching" style="width:33%;height:auto;">
 
 - Syringe and Sticky Putty
+
     Use sticky putty or hot glue to plug the small end of the syringe. Break a small (pea sized) chunk
     off of the antacid tablet and use the sticky putty to stick it to the plunger. Pour 1-2 ml of water
     into the syringe body.  Insert the plunger into the syringe body maintaining it's current orientation.
@@ -25,9 +27,11 @@
     <img src="files/rocket_02.jpg" alt="assembling" style="width:33%;height:auto;">
     <img src="files/rocket_03.jpg" alt="launching" style="width:33%;height:auto;">
 
-When ready, tip the rocket over, stand it up on a hard, stable surface (table/floor) and back away.
-In 4 to 10 seconds the pressure should build and the rocket will pop off the plunger with enough
-force to likely hit the ceiling.
+- Launching
+
+    When ready, tip the rocket over, stand it up on a hard, stable surface (table/floor) and back away.
+    In 4 to 10 seconds the pressure should build and the rocket will pop off the plunger with enough
+    force to likely hit the ceiling.
 
 
 ## Talking Points
