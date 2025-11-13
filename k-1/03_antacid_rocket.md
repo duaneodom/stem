@@ -41,10 +41,13 @@
 
 ## 3D Printable Files
     
-    - FreeCAD Design File: [rocket.FCStd](rocket.FCStd)
-    - rocket nose cone STL: [rocket_nose_cone.stl](rocket_nose_cone.stl)
-    - rocket fins STL: [rocket_fins.stl](rocket_fins.stl)
-    - rocket chamber STL: [rocket_chamber.stl](rocket_chamber.stl)
+    These are all the files needed to create the pre-built syringe rockets on your own along with the
+    FreeCAD design file to allow you to tweak the dimensions for other syringe sizes.
+
+    - FreeCAD Design File: [rocket.FCStd](files/rocket.FCStd)
+    - rocket nose cone STL: [rocket_nose_cone.stl](files/rocket_nose_cone.stl)
+    - rocket fins STL: [rocket_fins.stl](files/rocket_fins.stl)
+    - rocket chamber STL: [rocket_chamber.stl](files/rocket_chamber.stl)
 
 
 ## Talking Points
