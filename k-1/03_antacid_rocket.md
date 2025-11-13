@@ -41,7 +41,7 @@
 
 ## Printable Files
 
-   A printable instruction flyer to send home with the kids is located [here](files/rocket_flyer.pdf). 
+   [here](files/rocket_flyer.pdf). 
 
 
 ## Talking Points
