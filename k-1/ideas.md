@@ -1,0 +1,7 @@
+- paper planes with rings and straws
+- paper helicopters
+- paper rockets with bendy straws
+- syrup/oil/water density
+- balloon in jug with 2 straws (vacuum inflate)
+- balloon rocket
+- paper cup balloon (hot air balloon)
